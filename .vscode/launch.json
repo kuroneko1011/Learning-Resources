@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FoodListManagement",
+            "request": "launch",
+            "mainClass": "View.FoodListManagement",
+            "projectName": "Lab1_576756f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FoodListManagement",
+            "request": "launch",
+            "mainClass": "View.FoodListManagement",
+            "projectName": "Lab1_7c8f7643"
+        },
+        {
+            "type": "java",
+            "name": "Launch yeah",
+            "request": "launch",
+            "mainClass": "yeah",
+            "projectName": "Lab1_7c8f7643"
+        }
+    ]
+}
